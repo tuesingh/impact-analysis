@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-01-22T03:47:18.216740",
+  "digest": {
+    "generated_at": "2026-01-22T03:47:18.214848",
+    "total_items": 5,
+    "relevant_items": 0,
+    "items": []
+  },
+  "backlog": {
+    "generated_at": "2026-01-22T03:47:18.214862",
+    "total_tasks": 0,
+    "tasks": []
+  },
+  "changelog": {
+    "generated_at": "2026-01-22T03:47:18.215960",
+    "new_count": 5,
+    "escalated_count": 0,
+    "new_items": [
+      {
+        "id": 1,
+        "title": "Foreign-Trade Zone (FTZ) 238 Notification of Proposed Production Activity; Celanese Acetate LLC; (Cellulose Acetate Tow and Flake); Narrows, Virginia",
+        "impact": null
+      },
+      {
+        "id": 2,
+        "title": "Foreign-Trade Zone (FTZ) 18, Notification of Proposed Production Activity; Intel Foundry Corporation; (Semiconductor Products); Santa Clara, California",
+        "impact": null
+      },
+      {
+        "id": 3,
+        "title": "Fisheries of the Gulf of America; Southeast Data, Assessment, and Review; Public Meeting",
+        "impact": null
+      },
+      {
+        "id": 4,
+        "title": "Fisheries of the Gulf of America and South Atlantic; Southeast Data, Assessment, and Review; Public Meeting",
+        "impact": null
+      },
+      {
+        "id": 5,
+        "title": "National Institute of Allergy and Infectious Diseases; Notice of Meetings",
+        "impact": null
+      }
+    ]
+  }
+}
